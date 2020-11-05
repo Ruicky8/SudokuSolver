@@ -67,5 +67,3 @@ def solve(grid):
 
 print_board(grid)
 solve(grid)
-
-
